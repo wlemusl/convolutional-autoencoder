@@ -7,4 +7,4 @@ The only ipynb file is:
 1. "autoencoder.ipnyb" - This code is used to explore the data, create a training and testing set, build the autoencoder, reduced the number of signals features, input the reduced number of features of each signal to the three classifiers, and test the three machine learning classification models.
 
 The only csv file is:
-1. "Synthetic control chart time series data.csv" - This is a filtered version of "synthetic_control.data", which can be found in UCI Machine Learning Repository, specifically: http://archive.ics.uci.edu/ml/datasets/Synthetic+Control+Chart+Time+Series. The original dataset includes a total of 600 records with 6 different labels of signals, but the csv file I provide is a filtered version with 300 records and only 3 different labels.
+1. "Synthetic control chart time series data.csv" - This is a filtered version of "synthetic_control.data" and contains 300 records and 3 different labels of signals. However, the original dataset includes a total of 600 records and 6 different labels of signals. It can be found in UCI Machine Learning Repository: http://archive.ics.uci.edu/ml/datasets/Synthetic+Control+Chart+Time+Series
